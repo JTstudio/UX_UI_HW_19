@@ -5,7 +5,7 @@ body {
   header {
     background-color: #20242F;
     padding: 15px;
-    text-align: center;
+    
   }
   /* For some reason my upper Heading text refuses to realign and I have tried to get it back*/
   header ul {
@@ -14,6 +14,8 @@ body {
     color: white;
  
   }
+
+  img UserInter.png
 
   .header li {
     display: inline-block;
@@ -42,6 +44,9 @@ body {
   margin: 0 auto;
 }
 
+.content img{
+  align-items: center;
+}
   
   .heroImg {
     background-color: #EBEBEB;
